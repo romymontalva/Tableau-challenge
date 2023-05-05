@@ -21,7 +21,7 @@ Citi Bike finally began operations on May 27, 2013, with 332 stations. The stati
 Data was obteined from the citi bike in NYC website : https://citibikenyc.com/system-data
 I choose the file: 201306-citibike-tripdata.zip (data for June 2013) and I was able to create some graphs as follow bellow:
 
-START STATTIONS: The graph shows the quantity of started trips in each station during this period of time in the city on New York in an interactive map.
+START STATIONS: The graph shows the quantity of started trips in each station during this period of time in the city on New York in an interactive map.
 END STATIONS: The graph shows the quantity of ended trips in each station during this period of time in the city on New York in an interactive map.
 TRIP DURATION PER AGE: The line chart delimit the average drived miles per age. In this case we can state that the longer trips are for a maximum of around 1818 miles per people of 28 years old.
 TRIP DURATION VS GENDER: In this bar chart we can state that the female gender is able to ride the bike for 1063.5 miles in average and the male gender for 1233.2 miles in average.
